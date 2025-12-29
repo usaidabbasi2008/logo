@@ -1,0 +1,84 @@
+.btncolor{
+    background: #1090CB !important;
+    color: white !important;
+}
+.blue{
+    color: #1090CB;
+}
+.bg{
+    background: #1090CB1A;
+
+}
+.outlin{
+    border: 2px solid #1090CB;
+    color: #1090CB;
+}
+.bgi{
+    background-image: url('img/Rectangle\ 6.png');
+    width: 80px;
+    height: 80px;
+    border-radius: 25%;
+}
+.bgi2{
+    background-image: url('img/Rectangle\ 7.png');
+    width: 80px;
+    height: 80px;
+    border-radius: 25%;
+}
+.bgi3{
+    background-image: url('img/Rectangle\ 8.png');
+    width: 80px;
+    height: 80px;
+    border-radius: 25%;
+}
+.bgi4{
+    background-image: url('img/Rectangle\ 9.png');
+    width: 80px;
+    height: 80px;
+    border-radius: 25%;
+}
+.bgi5{
+    background-image: url('img/Ellipse\ 3.png') !important;
+      height: 40px !important;
+    width: 40px !important;
+    
+    border-radius: 50% !important;
+
+    
+    
+    
+    
+}
+.bgi6{
+        background-image: url('img/Ellipse\ 3\ \(1\).png') !important;
+      height: 40px !important;
+    width: 40px !important;
+    
+    border-radius: 50% !important;
+
+}
+.bgi7{
+        background-image: url('img/Ellipse\ 3\ \(3\).png') !important;
+      height: 40px !important;
+    width: 40px !important;
+    
+    border-radius: 50% !important;
+
+}
+.bgg{
+    background-color:  #F4F4F4;
+;
+}
+.bgb{
+    background-color: #1090CB;
+    color: white;
+}
+.btnw{
+    background-color: white;
+    color: #1090CB;
+}
+.bginput{
+    background-color: #0c4d6e;
+    height: 60%;
+    width: 100;
+}
