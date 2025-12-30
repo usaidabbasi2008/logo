@@ -82,3 +82,9 @@ background: #E8F4FA;
     
     
 }
+
+.bg-yellow{
+    background-image: url(img/Ellipse\ 1\ \(1\).png);
+    background-size: cover;
+    background-size: contain;
+}
