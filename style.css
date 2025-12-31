@@ -88,3 +88,19 @@ background: #E8F4FA;
     background-size: cover;
     background-size: contain;
 }
+
+@media screen and (max-width:1279px) {
+    .width{
+        width: 1000px !important;
+
+    }
+    .bell{
+    display: none;
+    }
+}
+.bell{
+    position: absolute;
+    top: 410%;
+    left:80%;
+    
+}
